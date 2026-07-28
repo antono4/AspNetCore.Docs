@@ -1,7 +1,6 @@
 # ASP.NET Core Docs
 
-> **Created by Antono**
-
+> **Forked from [Microsoft Docs](https://github.com/dotnet/AspNetCore.Docs)** | Maintained by Antono
 
 This repository contains the conceptual ASP.NET Core documentation hosted at [docs.microsoft.com/aspnet/core](https://docs.microsoft.com/aspnet/core/getting-started). See the [Contributing Guide](CONTRIBUTING.md) and the [issues list](https://github.com/dotnet/AspNetCore.Docs/issues) if you would like to help.
 

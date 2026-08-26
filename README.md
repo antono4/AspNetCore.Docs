@@ -1,2 +1,26 @@
-Last updated: 2026-08-26 09:35:53 WIB
-Last updated: 2026-08-26 09:50:53 WIB
+# AspNetCore.Docs
+
+
+
+## 📋 Overview
+
+This repository contains **15029 files** and is built with the following technologies:
+
+Not detected
+
+## 🚀 Quick Start
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+Not detected
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-08-26 10:05:13 WIB*
